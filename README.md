@@ -1,8 +1,6 @@
 Mojdeh Tarighat, Matthew Lancellotti, Arun Kannan, Ramanujan Santharoubane, and Axel Saenz.
 
-1234567891011121314151617
-
-break
+123456789101112131415161718
 
 ## Schedule of Talks, Spring 2018
 
