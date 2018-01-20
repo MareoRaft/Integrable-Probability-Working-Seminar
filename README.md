@@ -2,6 +2,7 @@ Mojdeh Tarighat, Matthew Lancellotti, Arun Kannan, Ramanujan Santharoubane, and 
 
 1234567891011121314151617
 
+
 ## Schedule of Talks, Spring 2018
 
 Date ↓ | # | Topic | Content | Lecturer
