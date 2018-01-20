@@ -1,0 +1,7 @@
+The idea is to 
+  1. install Dropbox on one of my servers
+  2. Have a watchdog such as the python watchdog or grunt
+  3. It reacts to a file change and does either...
+    - commits new file overwriting old file in git repo, then pushes to GitHub
+    - runs markdown itself and hosts the resulting HTML along with a CSS file
+
