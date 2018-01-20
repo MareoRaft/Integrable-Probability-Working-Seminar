@@ -19,11 +19,11 @@ Apr 19 |  |  |  |
 Apr 26 |  |  |  |
 
 ## Unscheduled Talks
- #↓ | Topic | Content | Lecturer
+ #↓| Topic | Content | Lecturer
 :-:|-------|---------|---------
- 5 | Bethe Ansatz for ASEP on the Ring |  | 
+ 5 | Bethe Ansatz for ASEP on the Ring |  |
  7 | Orthogonal Polynomials and Applications to Determinantal Processes |  | Arun
  8 | Riemann-Hilbert Problems and Applications to Asymptotic Analysis |  | Mojdeh
- 9 | Eyenard-Orantin Topological Recursion and the Generalized Catalan Numbers |  | 
-10 | Higgs Bundles |  | 
-11 | Eyenard-Orantin Topological Recursion and the Higgs Bundles |  | 
+ 9 | Eyenard-Orantin Topological Recursion and the Generalized Catalan Numbers |  |
+10 | Higgs Bundles |  |
+11 | Eyenard-Orantin Topological Recursion and the Higgs Bundles |  |
