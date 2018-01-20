@@ -22,7 +22,7 @@ Apr 26 |  |  |  |
 
 ## Unscheduled Talks
 
- ↓#| Topic | Content | Lecturer
+ #↓| Topic | Content | Lecturer
 :-:|-------|---------|---------
  5 | Bethe Ansatz for ASEP on the Ring |  | 
  7 | Orthogonal Polynomials and Applications to Determinantal Processes |  | Arun
