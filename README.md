@@ -2,7 +2,7 @@ Mojdeh Tarighat, Matthew Lancellotti, Arun Kannan, Ramanujan Santharoubane, and 
 
 ## Schedule of Talks, Spring 2018
 
- Date ↓ | # | Topic | Content | Lecturer
+ Daate ↓ | # | Topic | Content | Lecturer
 -------|:-:|-------|---------|---------
 Jan 25 | 1 | Determinantal and Schur Processes |  | Mojdeh
 Feb 01 | 4 | ASEP on the Line and the Bethe Ansatz |  | Matt
@@ -19,7 +19,7 @@ Apr 19 |  |  |  |
 Apr 26 |  |  |  |
 
 ## Unscheduled Talks
- #↓| Topic | Content | Lecturer
+ ↓#| Topic | Content | Lecturer
 :-:|-------|---------|---------
  5 | Bethe Ansatz for ASEP on the Ring |  |
  7 | Orthogonal Polynomials and Applications to Determinantal Processes |  | Arun
