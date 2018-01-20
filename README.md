@@ -1,10 +1,12 @@
-# Title
+# Integrable Probability Working Seminar
 
-## subtitle
+Spring 2018.
 
-| header1  | h2  | h3  |
-|---|:-:|---:|
-| a  | d  | f  |
-|   |  g |  sdfsdf |
+Mojdeh Tarighat, Matthew Lancellotti, Arun Kannan, Ramanujan Santharoubane, and Axel Saenz.
 
-edit
+## Schedule of Talks
+
+Date | Topic # | Talk | Content | Lecturer
+Jan 25 | 1 | Determinantal and Schur Processes | ? | Mojdeh
+Feb 01 | 4 | ASEP on the Line and the Bethe Ansatz | ? | Matt
+
