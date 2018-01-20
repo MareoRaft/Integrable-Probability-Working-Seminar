@@ -2,7 +2,7 @@ Mojdeh Tarighat, Matthew Lancellotti, Arun Kannan, Ramanujan Santharoubane, and 
 
 ## Schedule of Talks, Spring 2018
 
-Date ↓ | # | Topic | Content | Lecturer
+ Date ↓ | # | Topic | Content | Lecturer
 -------|:-:|-------|---------|---------
 Jan 25 | 1 | Determinantal and Schur Processes |  | Mojdeh
 Feb 01 | 4 | ASEP on the Line and the Bethe Ansatz |  | Matt
@@ -13,7 +13,7 @@ Mar 01 | 6 | Non-Intersecting Brownian Motion on the Unit Circle |  | Matt
 Mar 15 |  |  |  |
 Mar 22 |  |  |  |
 Mar 29 |  |  |  |
-Apr 05 |  |  |  |
+Apr 05 |  |  |  | 
 Apr 12 |  |  |  |
 Apr 19 |  |  |  |
 Apr 26 |  |  |  |
