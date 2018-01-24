@@ -1,6 +1,5 @@
 Mojdeh Tarighat, Matthew Lancellotti, Arun Kannan, Ramanujan Santharoubane, and Axel Saenz.
 
-This is a [link](http://google.com)
 
 ## Schedule of Talks, Spring 2018
 
