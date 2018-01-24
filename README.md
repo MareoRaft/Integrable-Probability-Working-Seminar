@@ -1,5 +1,7 @@
 Mojdeh Tarighat, Matthew Lancellotti, Arun Kannan, Ramanujan Santharoubane, and Axel Saenz.
 
+The best fish is a nice sea bass
+
 
 ## Schedule of Talks, Spring 2018
 
