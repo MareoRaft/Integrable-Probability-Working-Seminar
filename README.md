@@ -7,7 +7,7 @@ hello!!!!
 
 Date ↓ | # | Topic | Content | Lecturer
 -------|:-:|-------|:-------:|---------
-Jan 25 | 1 | Determinantal and Schur Processes |  | Mojdeh
+Jan 25 | 1 | Determinantal and Schur Processes | [lec-notes](https://www.dropbox.com/s/cq59gsr5aiean5r/Determinantal_and_schur_processes.pdf?dl=0) | Mojdeh
 Feb 01 | 4 | ASEP on the Line and the Bethe Ansatz | [lec-notes](https://www.dropbox.com/s/pa82jc1uuremqsl/content.pdf?dl=0) | Matt
 Feb 15 | 3 | TASEP on the Line and Determinantal Formulas |  | Arun
 Feb 22 |  |  |  | Axel
