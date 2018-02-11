@@ -9,11 +9,10 @@ Date ↓ | # | Topic | Content | Lecturer
 -------|:-:|-------|---------|---------
 Jan 25 | 1 | Determinantal and Schur Processes |  | Mojdeh
 Feb 01 | 4 | ASEP on the Line and the Bethe Ansatz | [link](https://www.dropbox.com/s/pa82jc1uuremqsl/content.pdf?dl=0) | Matt
-Feb 07 | 3 | TASEP on the Line and Determinantal Formulas |  | Arun
-Feb 15 |  |  |  | Axel
-Feb 22 | 2 | Random Matrices and Determinantal Structure |  | Mojdeh
-Mar 01 | 6 | Non-Intersecting Brownian Motion on the Unit Circle |  | Matt
-Mar 15 |  |  |  | 
+Feb 15 | 3 | TASEP on the Line and Determinantal Formulas |  | Arun
+Feb 22 |  |  |  | Axel
+Mar 01 | 2 | Random Matrices and Determinantal Structure |  | Mojdeh
+Mar 15 | 6 | Non-Intersecting Brownian Motion on the Unit Circle |  | Matt
 Mar 22 |  |  |  | 
 Mar 29 |  |  |  | 
 Apr 05 |  |  |  | 
