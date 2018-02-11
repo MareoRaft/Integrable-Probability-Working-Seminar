@@ -6,7 +6,7 @@ hello!!!!
 ## Schedule of Talks, Spring 2018
 
 Date ↓ | # | Topic | Content | Lecturer
--------|:-:|-------|---------|---------
+-------|:-:|-------|:-------:|---------
 Jan 25 | 1 | Determinantal and Schur Processes |  | Mojdeh
 Feb 01 | 4 | ASEP on the Line and the Bethe Ansatz | [lec-notes](https://www.dropbox.com/s/pa82jc1uuremqsl/content.pdf?dl=0) | Matt
 Feb 15 | 3 | TASEP on the Line and Determinantal Formulas |  | Arun
@@ -24,7 +24,7 @@ Apr 26 |  |  |  |
 ## Unscheduled Talks
 
  #↓| Topic | Content | Lecturer
-:-:|-------|---------|---------
+:-:|-------|:-------:|---------
  5 | Bethe Ansatz for ASEP on the Ring |  | 
  7 | Orthogonal Polynomials and Applications to Determinantal Processes |  | Arun
  8 | Riemann-Hilbert Problems and Applications to Asymptotic Analysis |  | Mojdeh
