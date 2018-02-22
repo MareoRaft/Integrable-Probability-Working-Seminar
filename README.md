@@ -1,33 +1,29 @@
 Mojdeh Tarighat, Matthew Lancellotti, Arun Kannan, Ramanujan Santharoubane, and Axel Saenz.
 
-hello!!!!
+yup.
 
 
 ## Schedule of Talks, Spring 2018
 
 Date ↓ | # | Topic | Content | Lecturer
--------|:-:|-------|:-------:|---------
-Jan 25 | 1 | Determinantal and Schur Processes | [lec-notes](https://www.dropbox.com/s/cq59gsr5aiean5r/Determinantal_and_schur_processes.pdf?dl=0) | Mojdeh
-Feb 01 | 4 | ASEP on the Line and the Bethe Ansatz | [lec-notes](https://www.dropbox.com/s/pa82jc1uuremqsl/content.pdf?dl=0) | Matt
-Feb 15 | 3 | TASEP on the Line and Determinantal Formulas |  | Arun
-Feb 22 |  |  |  | Axel
-Mar 01 | 2 | Random Matrices and Determinantal Structure |  | Mojdeh
-Mar 15 | 6 | Non-Intersecting Brownian Motion on the Unit Circle |  | Matt
-Mar 22 |  |  |  | 
-Mar 29 |  |  |  | 
-Apr 05 |  |  |  | 
-Apr 12 |  |  |  | 
-Apr 19 |  |  |  | 
+-------|:-:|-------|---------|---------
+Jan 25 | 1 | Determinantal and Schur Processes |  | Mojdeh
+Feb 01 | 4 | ASEP on the Line and the Bethe Ansatz |  | Matt
+Feb 08 | 3 | TASEP on the Line and Determinantal Formulas |  | Arun
+Feb 15 | 5 | Bethe Ansatz for ASEP on the Ring  |  | Axel
+Feb 22 | 2 | Random Matrices and Determinantal Structure |  | Mojdeh
+Mar 01 | 6 | Non-Intersecting Brownian Motion on the Unit Circle |  | Matt
+Mar 15 | 7 | Orthogonal Polynomials and Determinantal Processes |  | Arun 
+Mar 22 | 10 | Higgs Bundle |  | Ramanujan 
+Mar 29 | 8  | Riemann-Hilbert Problems and Asymptotic Analysis  |  | Mojdeh 
+Apr 05 | 9 | EOC Topological Recursion and the Catalan Numbers |  |  Axel
+Apr 12 | 11 | EOC Topological Recursion and Higgs Bundle |  | Ramanujan
+Apr 19 | 12 | From the Japanese Tau- Function to Okounkov's Determinatal Formulas |  | Axel 
 Apr 26 |  |  |  | 
 
 
 ## Unscheduled Talks
 
  #↓| Topic | Content | Lecturer
-:-:|-------|:-------:|---------
- 5 | Bethe Ansatz for ASEP on the Ring |  | 
- 7 | Orthogonal Polynomials and Applications to Determinantal Processes |  | Arun
- 8 | Riemann-Hilbert Problems and Applications to Asymptotic Analysis |  | Mojdeh
- 9 | Eyenard-Orantin Topological Recursion and the Generalized Catalan Numbers |  | 
-10 | Higgs Bundles |  | 
-11 | Eyenard-Orantin Topological Recursion and the Higgs Bundles |  | 
+:-:|-------|---------|---------
+
