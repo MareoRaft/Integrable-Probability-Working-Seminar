@@ -10,7 +10,7 @@ Date ↓ | # | Topic | Content | Lecturer
 Jan 25 | 1 | Determinantal and Schur Processes | [lec-notes](https://www.dropbox.com/s/3u99caembuadigm/Determinantal_and_schur_processes.pdf?dl=0) | Mojdeh
 Feb 01 | 4 | ASEP on the Line and the Bethe Ansatz | [lec-notes](https://www.dropbox.com/s/f8l86jmz3a7e3to/content.pdf?dl=0) | Matt
 Feb 22 | 3 | TASEP on the Line and Determinantal Formulas |  | Arun
-Mar 01 | 5 | Bethe Ansatz for ASEP on the Ring  | [lec-notes](https://www.dropbox.com/s/65b65is4fy4t48b/ASEPPresentationKITP.pdf?dl=0) | Axel
+Mar 01 | 5 | Bethe Ansatz for ASEP on the Ring  | [slides](https://www.dropbox.com/s/65b65is4fy4t48b/ASEPPresentationKITP.pdf?dl=0) | Axel
 Mar 01 | 2 | Random Matrices and Determinantal Structure |  | Mojdeh
 Mar 15 | 6 | Non-Intersecting Brownian Motion on the Unit Circle |  | Matt
 Mar 22 | 7 | Orthogonal Polynomials and Determinantal Processes |  | Arun 
