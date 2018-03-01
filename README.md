@@ -1,6 +1,6 @@
 Mojdeh Tarighat, Matthew Lancellotti, Arun Kannan, Ramanujan Santharoubane, and Axel Saenz.
 
-yup.  hi.
+Thursdays, 3:40pm, KER 128
 
 
 ## Schedule of Talks, Spring 2018
