@@ -20,8 +20,3 @@ Apr 12 | 9 | EOC Topological Recursion and the Catalan Numbers |  |  Axel
 Apr 19 | 11 | EOC Topological Recursion and Higgs Bundle |  | Ramanujan
 Apr 26 | 12 | From the Japanese Tau- Function to Okounkov's Determinatal Formulas |  | Axel 
 
-
-## Unscheduled Talks
-
- #↓| Topic | Content | Lecturer
-:-:|-------|---------|---------
