@@ -11,7 +11,7 @@ Jan 25 | 1 | Determinantal and Schur Processes | [lec-notes](https://www.dropbox
 Feb 01 | 4 | ASEP on the Line and the Bethe Ansatz | [lec-notes](https://www.dropbox.com/s/f8l86jmz3a7e3to/content.pdf?dl=0) | Matt
 Feb 22 | 3 | TASEP on the Line and Determinantal Formulas |  | Arun
 Mar 01 | 5 | Bethe Ansatz for ASEP on the Ring  | [slides](https://www.dropbox.com/s/65b65is4fy4t48b/ASEPPresentationKITP.pdf?dl=0) | Axel
-Mar 01 | 2 | Random Matrices and Determinantal Structure |  | Mojdeh
+Mar 01 | 2 | Random Matrices and Determinantal Structure | [notes1](www.dropbox.com/scl/fi/aztuyzmsuahtvw6wtfq1q/range1.pdf?dl=0) [notes2](https://www.dropbox.com/scl/fi/27p23yf7txv6dwbb5swl1/range2.pdf?dl=0) | Mojdeh
 Mar 22 | 6 | Non-Intersecting Brownian Motion on the Unit Circle | [lec-notes](https://www.dropbox.com/s/oztgj61yxqwuvj2/walking-in-circles-aimlessly.pdf?dl=0) | Matt
 Mar 29 | 7 | Orthogonal Polynomials and Determinantal Processes |  | Arun 
 Apr 05 | 10 | Higgs Bundle, EOC Topological Recursion and Higgs Bundle |  | Ramanujan 
